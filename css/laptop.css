@@ -265,13 +265,15 @@ td,
 .project-title {
   border: 1px solid #a0a0a0;
   border-collapse: collapse;
+  text-decoration: none;
 }
 .project-title a{
-  text-decoration:none;
-   font-size: 22px;
+  text-decoration: none;
+  font-size: 22px;
   line-height: 1.5;
   font-weight: 500;
   margin-bottom: 0;
+  color:#199cdb;
 }
 td,
 .project-content,
