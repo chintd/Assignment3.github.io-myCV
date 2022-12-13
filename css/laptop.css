@@ -273,7 +273,7 @@ td,
   line-height: 1.5;
   font-weight: 500;
   margin-bottom: 0;
-  color:#199cdb;
+
 }
 td,
 .project-content,
@@ -296,7 +296,7 @@ td,
   position: relative;
   padding-bottom: 0;
 }
-#project a:hover,
+.project-title>a:hover,
 .footer div:hover,
 .footer i:hover {
   color: #199cdb;
