@@ -252,8 +252,13 @@ section > .container {
   background-color: #199cdb;
   float: left;
   font-weight: 600;
+  width: 35%;
+  text-align: center;
 }
-
+.content{
+  width: 65%;
+  
+}
 table,
 .project-title,
 .project-content {
