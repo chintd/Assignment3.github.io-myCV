@@ -266,7 +266,7 @@ td,
   border: 1px solid #a0a0a0;
   border-collapse: collapse;
 }
-#project a{
+.project-title a{
   text-decoration:none;
    font-size: 22px;
   line-height: 1.5;
